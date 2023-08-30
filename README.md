@@ -16,7 +16,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Screenshot
 
 <img src="sreenshot1.png">
-<img src="sreenshot1.png">
+<img src="sreenshot2.png">
 
 ## My process
 
